@@ -1,4 +1,4 @@
-//The following script mimics the local server and it's steps to the generate the refresh token for following requests
+//The following script creates a local server and the required steps to generate the refresh token
 require('dotenv').config();
 const express = require('express');
 
