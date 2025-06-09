@@ -28,7 +28,7 @@ This project allows you to create a new contact in **Zoho CRM** using their API 
     npm install
     ```
 
-3. **Create a .env file with the folowing**
+3. **Create a .env file with the following**
     ```env
     CLIENT_ID=
     CLIENT_SECRET=
