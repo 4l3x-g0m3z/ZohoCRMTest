@@ -37,8 +37,7 @@ This project allows you to create a new contact in **Zoho CRM** using their API 
     REFRESH_TOKEN=
     REDIRECT_URL=
     ```
-
-##  Run 
+4. **Run**:
     ```bash
     //to generate a refresh token
     node index.js 
