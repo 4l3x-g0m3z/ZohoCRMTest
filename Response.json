@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "code": "SUCCESS",
+            "details": {
+                "Modified_Time": "2025-06-09T09:34:57-06:00",
+                "Modified_By": {
+                    "name": "Oscar Gomez",
+                    "id": "6827587000000566001"
+                },
+                "Created_Time": "2025-06-09T09:34:57-06:00",
+                "id": "6827587000000602001",
+                "Created_By": {
+                    "name": "Oscar Gomez",
+                    "id": "6827587000000566001"
+                }
+            },
+            "message": "record added",
+            "status": "success"
+        }
+    ]
+}
